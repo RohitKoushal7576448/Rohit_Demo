@@ -1,4 +1,4 @@
 # Rohit-Demo
 This is my first git repository..
 <br>
-Author-Rohit Koushal
+Author-Rohit K(Koushal)
