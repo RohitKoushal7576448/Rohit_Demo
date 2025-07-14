@@ -1,2 +1,2 @@
-# Rohit_Demo
+# Rohit-Demo
 This is my first git repository
